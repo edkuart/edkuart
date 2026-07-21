@@ -48,5 +48,5 @@ Restaurant and community platform with a digital catalog, events, administrative
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/edwart-enriquez-41b880249/)
+- [LinkedIn](https://www.linkedin.com/in/edwart-daniel-enriquez-manrique-41b880249/)
 - [Email](mailto:edkuart@gmail.com)
